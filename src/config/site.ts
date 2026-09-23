@@ -19,18 +19,19 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "yLtt63vEl1o", // Roblox My Seafood Stand codes & gameplay video
+  name: "Heart of Artemisa Wiki",
+  shortName: "Heart of Artemisa",
+  logoText: "HA",
+  tagline: "Builds, Guides, Rhythm Mechanics & Gameplay",
+  description: "Heart of Artemisa Wiki provides gameplay guides, combat tips, dungeon strategies, character builds, rhythm mechanics, and latest updates for this pixel fantasy roguelite adventure.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://heartofartemisawiki.top",
+  supportEmail: "support@heartofartemisawiki.top",
+  gameUrl: "https://store.steampowered.com/app/3200950/Heart_of_Artemisa/",
+  heroVideoId: "Cmk81RwmQEc",
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.gg/6MEwKQwn9n",
+    youtube: "https://www.youtube.com/@CamacebraGames",
+    twitter: "https://x.com/CamacebraGames",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
