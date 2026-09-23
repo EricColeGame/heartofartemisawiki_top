@@ -6,7 +6,17 @@
     "description": "Heart of Artemisa Wiki provides gameplay guides, combat tips, dungeon strategies, character builds, rhythm mechanics, and latest updates for this pixel fantasy roguelite adventure.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle Theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "combat": "Combat",
+    "characters": "Characters",
+    "media": "Media",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Heart of Artemisa Wiki — Builds, Guide, Combat & Rhythm Mechanics",
@@ -383,7 +393,6 @@
       "secondary": "View on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -412,12 +421,35 @@
     "playGame": "View on Steam",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "Game Database",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "mechanics": "Game Mechanics",
+    "combat": "Combat System",
+    "characters": "Characters & Lore",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Heart of Artemisa Guides",
+    "overviewDescription": "Comprehensive gameplay walkthroughs, beginner strategies, demo guides, and helpful tips for Heart of Artemisa."
+  },
+  "mechanics": {
+    "overviewTitle": "Heart of Artemisa Mechanics",
+    "overviewDescription": "Detailed breakdown of rhythm combat timing, traversal controls, exploration systems, and mythological lore mechanics."
+  },
+  "combat": {
+    "overviewTitle": "Heart of Artemisa Combat",
+    "overviewDescription": "Master battle tactics, beat synchronization, weapon techniques, enemy behaviors, and boss encounters."
+  },
+  "characters": {
+    "overviewTitle": "Heart of Artemisa Characters",
+    "overviewDescription": "In-depth profiles of the protagonist, divine beings, Artemisa mythology, and character abilities in the game."
+  },
+  "media": {
+    "overviewTitle": "Heart of Artemisa Media",
+    "overviewDescription": "Latest gameplay trailers, official release announcements, updates, and community video showcases."
+  },
+  "community": {
+    "overviewTitle": "Heart of Artemisa Community",
+    "overviewDescription": "Join the Heart of Artemisa player community across Discord and Reddit, track news, and read official FAQs."
   }
 }

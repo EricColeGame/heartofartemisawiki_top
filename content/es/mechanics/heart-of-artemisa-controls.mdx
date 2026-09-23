@@ -1,0 +1,147 @@
+export const metadata = {
+  title: "Dominando los controles de Heart of Artemisa: Guía completa de combate rítmico y movimiento",
+  description: "Aprende a dominar los controles de Heart of Artemisa, optimizar la configuración de tu mando, sincronizar las acciones de combate al ritmo y minimizar la latencia audiovisual.",
+  category: "mechanics",
+  date: "2026-09-23",
+};
+
+Moverse por un dungeon crawler rítmico requiere reflejos impecables, pero dominar los **controles de Heart of Artemisa** es lo que verdaderamente convierte la caótica supervivencia en las mazmorras en una forma de arte. Desarrollado por Camacebra Games, *Heart of Artemisa* fusiona la tensa exploración roguelite con una estricta ejecución rítmica, exigiendo que cada golpe, esquiva y paso coincida con el tempo del mundo subterráneo. Ya sea blandiendo una espada o esquivando peligros al compás de la banda sonora, perfeccionar tus **controles de Heart of Artemisa** marca la diferencia entre limpiar salas sin esfuerzo y sufrir una derrota repentina.
+
+En esta guía completa, desglosamos las mecánicas centrales del juego, comparamos la configuración de mando frente a la de teclado, analizamos los perfiles de sincronización específicos de cada arma y proporcionamos pasos clave de calibración para eliminar la latencia.
+
+---
+
+## Resumen de las mecánicas basadas en el ritmo
+
+En *Heart of Artemisa*, tus acciones no se limitan a activar animaciones; interactúan directamente con un metrónomo activo que gobierna el mundo del juego. Tanto el desplazamiento del jugador como la eficacia en combate están vinculados al pulso musical subyacente.
+
+Golpear a un enemigo o maniobrar a contratiempo o fuera de compás reduce tu efectividad y provoca ocasiones perdidas. Por el contrario, mantener una cadena constante de acciones al compás multiplica tu potencia ofensiva, amplía el alcance de tus armas y desestabiliza a los enemigos agresivos antes de que puedan acortar distancias.
+
+```
+Onda de tempo:   ♪  ---  [ Pulso ]  ---  ♪  ---  [ Pulso ]  ---  ♪
+Zona de entrada:        [ Temprano ]   [ Perfecto ]   [ Tardío ]
+```
+
+El juego proporciona sutiles referencias visuales y auditivas para ayudarte a interiorizar este tempo:
+* **Metrónomo de la pista de audio:** La línea de bajo y la percusión acentúan los pulsos principales de acción.
+* **Pulsación visual:** Las antorchas del entorno, los elementos de la interfaz y los indicadores del personaje laten en sincronía con las ventanas de impacto entrantes.
+* **Vibración háptica:** Los mandos compatibles transmiten vibraciones sutiles justo antes de los pulsos dominantes.
+
+### Ventanas de tiempo de entrada y multiplicadores
+
+Acertar con precisión determina el éxito de tu partida. La siguiente tabla detalla cómo la precisión rítmica influye en tus estadísticas y en tu rendimiento en combate.
+
+| Calificación de tiempo | Ventana (ms respecto al pulso) | Multiplicador de daño | Potencial de aturdimiento | Generación de medidor |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pulso perfecto (Perfect Beat)** | ±15 ms | 1,50x | Alto (interrumpe ataques) | Máxima |
+| **Buen pulso (Good Beat)** | ±16 ms a ±45 ms | 1,00x | Medio (golpe estándar) | Moderada |
+| **A contratiempo / Rozado** | ±46 ms a ±75 ms | 0,50x | Ninguno | Mínima |
+| **Fallo / Tropiezo** | > ±75 ms | 0,00x (Aire) | Vulnerable a contraataques | Agota el combo |
+
+---
+
+## Esquemas de control recomendados: Mando vs. Teclado
+
+El equipo de desarrollo recomienda de forma explícita jugar a *Heart of Artemisa* con un mando. Los sticks analógicos y los botones frontales ofrecen una cadencia orgánica que encaja de manera natural con las pulsaciones rítmicas.
+
+Puedes consultar todos los detalles de la plataforma y la compatibilidad del sistema directamente en la [página oficial de Steam de Heart of Artemisa](https://store.steampowered.com/app/3200950/Heart_of_Artemisa/), donde se detalla la compatibilidad nativa con mandos estándar de Xbox, DualShock 4 y DualSense mediante USB, así como con la API de Steam Input.
+
+Aunque un teclado mecánico ofrece una respuesta táctil precisa, los sticks analógicos o las crucetas facilitan giros direccionales rápidos en los escenarios 2D de las cuevas. Optimizar tus **controles de Heart of Artemisa** en mando garantiza que tus pulgares no tengan que separarse de los botones de ataque durante los combates más intensos contra jefes.
+
+### Esquema de controles predeterminado de Heart of Artemisa
+
+Ya juegues con mando o con una configuración tradicional de teclado, así se distribuyen las acciones principales entre los dispositivos de entrada:
+
+| Acción en el juego | Mando de Xbox | Mando de PlayStation | Teclado (predeterminado) |
+| :--- | :--- | :--- | :--- |
+| **Moverse / Paso** | Stick izquierdo / Cruceta | Stick izquierdo / Cruceta | W / A / S / D |
+| **Ataque principal** | X | Cuadrado | J / Clic izquierdo del ratón |
+| **Secundario / Habilidad** | Y | Triángulo | K / Clic derecho del ratón |
+| **Deslizamiento rítmico / Esquiva** | A | Cruz | Barra espaciadora |
+| **Interactuar / Examinar** | B | Círculo | E |
+| **Usar consumible** | LB | L1 | Q |
+| **Cambiar arma** | RB | R1 | Tab / Rueda del ratón |
+| **Pausa / Inventario** | Botón Menú | Botón Options | Escape |
+
+---
+
+## Mecánicas de armas y tiempos de control de acción
+
+El combate en *Heart of Artemisa* es profundamente modular. La demo permite experimentar con cuatro arquetipos de armas distintos, cada uno con cadencias únicas. Adaptar tus **controles de Heart of Artemisa** al tempo de cada arma requiere comprender cómo se alinean los ataques con los compases musicales.
+
+Ciertas armas favorecen una cadencia continua a negras, mientras que las herramientas más pesadas funcionan a blancas o exigen comprometerse a lo largo de varios pulsos.
+
+```
+Cadencia de daga:     [Pulsar] [Pulsar] [Pulsar] [Pulsar] (Cada negra)
+Cadencia de martillo: [Mantener] ---- [Soltar]           (Golpe completo a blanca)
+```
+
+### Asignación de acciones y perfiles rítmicos de las armas
+
+Elegir el arma adecuada depende por completo de tu comodidad para mantener una consistencia rítmica bajo presión:
+
+| Tipo de arma | Cadencia de entrada | Alcance | Estrategia de juego | Techo de habilidad |
+| :--- | :--- | :--- | :--- | :--- |
+| **Espada corta** | 1 pulsación por pulso | Corto-Medio | Arma inicial equilibrada con ventanas de recuperación fiables. | Principiante |
+| **Lanza / Estoque** | 1 pulsación cada 2 pulsos | Largo (perforante) | Se centra en el control de distancia lineal, manteniendo a los enemigos al alcance máximo. | Intermedio |
+| **Martillo pesado** | Mantener en pulso 1, soltar en pulso 2 | Corto (radial) | Daño de impacto y aturdimiento masivos; exige una precisión estricta. | Avanzado |
+| **Arco rítmico** | Pulsar en pulso 1 (tensar), soltar en pulso 2 | A distancia | Limpieza segura a larga distancia que premia la sincronización auditiva. | Avanzado |
+
+Los comentarios de la comunidad destacan que la espada corta ofrece la ventana más permisiva mientras se aprenden las animaciones de ataque de los enemigos. A medida que avanzas, cambiar a armas de mayor alcance como la lanza proporciona una gestión de distancia defensiva más limpia en encuentros complejos contra múltiples enemigos.
+
+---
+
+## Movimiento, esquiva y peligros del entorno
+
+Explorar las oscuras cavernas de *Heart of Artemisa* depende del ritmo tanto como el combate. Las trampas, los suelos que se derrumban y las trayectorias de los proyectiles enemigos palpitan al compás del tema del nivel.
+
+Dominar los **controles de Heart of Artemisa** defensivos implica concebir el movimiento como un fluir continuo en lugar de una reacción errática de pánico. Si intentas pulsar comandos de dirección repetidamente fuera del tempo de la pista, tu personaje tropezará, dejándote vulnerable al daño enemigo.
+
+### Técnicas de control defensivo y de movimiento
+
+| Técnica | Secuencia de botones | Señal de sincronización | Aplicación práctica en el juego |
+| :--- | :--- | :--- | :--- |
+| **Paso al compás (Beat Stride)** | Mantener el stick direccional | Continuo | Tránsito seguro por las salas; alinea el sonido de los pasos con el ritmo. |
+| **Deslizamiento evasivo** | Dirección + Botón de esquiva | Exactamente en el pulso | Otorga breves fotogramas de invulnerabilidad para atravesar peligros a ras de suelo. |
+| **Ataque en pivote** | Stick en sentido inverso + Ataque | Inmediatamente en el siguiente pulso | Castiga a los enemigos agresivos que intentan flanquearte por la espalda. |
+| **Golpe de mecanismo** | Interactuar / Ataque | En el repique sincronizado | Activa runas en el suelo y placas de presión para abrir puertas cerradas. |
+
+La experiencia de los jugadores demuestra que tratar las esquivas como una herramienta calculada de reposicionamiento en lugar de un botón de pánico ante emergencias mejora drásticamente las tasas de supervivencia en las salas avanzadas de la mazmorra.
+
+---
+
+## Solución de problemas de latencia de entrada y consejos de calibración
+
+Dado que *Heart of Artemisa* depende de una precisión estricta al milisegundo, el retardo de entrada (input lag) es el mayor obstáculo al que se enfrentan los jugadores. Incluso un desfase mínimo entre presionar un botón y la reacción del personaje provocará penalizaciones continuas de «A contratiempo» o «Fallo».
+
+Ajustar al milímetro tus **controles de Heart of Artemisa** para conseguir cero latencia de entrada requiere evaluar toda la cadena de hardware, desde los tipos de conexión del mando hasta las frecuencias de actualización de la pantalla.
+
+### Lista de comprobación para reducir la latencia
+
+Sigue estos pasos de optimización para garantizar que tu equipo ofrezca respuestas rítmicas inmediatas y sin interferencias:
+
+| Componente | Problema común | Solución recomendada | Latencia potencial reducida |
+| :--- | :--- | :--- | :--- |
+| **Conexión del mando** | Fluctuación en el sondeo por Bluetooth | Cambia a una conexión directa por cable USB-C o USB-A. | 8–20 ms |
+| **Modo de pantalla** | Retardo de posprocesamiento | Activa el «Modo juego» en tu televisor/monitor; desactiva V-Sync en el juego. | 15–40 ms |
+| **Salida de audio** | Latencia de auriculares inalámbricos | Usa conectores jack de 3,5 mm o DAC por USB en vez de audio por Bluetooth. | 50–150 ms |
+| **Steam Input** | Sobrecarga por capas de configuración | Configura Steam Input como «Mando predeterminado» sin capas de reasignación adicionales. | 2–5 ms |
+| **Calibración del juego** | Desincronización audiovisual | Ejecuta la herramienta integrada de calibración para sincronizar los impactos visuales con el oído. | Varía según el equipo |
+
+Dedicar cinco minutos antes de iniciar una partida a realizar una prueba de calibración de audio garantiza que tus ataques visuales coincidan a la perfección con la banda sonora musical del juego.
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Puedo personalizar los controles de Heart of Artemisa en PC?
+Sí. Los jugadores de PC pueden reasignar por completo las teclas directamente desde el menú de ajustes del juego. En el caso de los mandos, se pueden modificar las asignaciones de botones tanto en la configuración nativa del juego como mediante el configurador de Steam Input para reasignar gatillos, botones frontales y la sensibilidad de los sticks.
+
+### ¿Por qué los controles de Heart of Artemisa se sienten con retraso por Bluetooth?
+Las conexiones Bluetooth estándar introducen una latencia de sondeo variable (a menudo de entre 20 ms y 80 ms), lo que desajusta las ajustadas ventanas de tiempo rítmicas. Conectar tu mando de Xbox o DualSense mediante un cable USB directo elimina las interferencias inalámbricas y estabiliza la ventana de respuesta para obtener puntuaciones constantes de «Pulso perfecto».
+
+### ¿Es posible jugar a Heart of Artemisa con eficacia sin un mando?
+Aunque Camacebra Games recomienda oficialmente jugar con mando para disfrutar de la mejor experiencia, jugar con teclado es totalmente viable. Utilizar un teclado mecánico con interruptores lineales ofrece una respuesta táctil limpia que ayuda a mantener el compás, especialmente durante las limpiezas rápidas de salas.
+
+### ¿Qué ocurre si pierdo el pulso al usar los controles de combate?
+No sincronizar tus acciones con el pulso musical se traduce en menor daño de ataque, pérdida de la racha de combo y una recuperación más lenta del personaje. En casos extremos, golpear fuera de compás provoca una breve animación de tropiezo que deja a tu personaje temporalmente vulnerable a los contraataques enemigos.
