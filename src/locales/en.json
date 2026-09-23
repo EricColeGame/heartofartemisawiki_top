@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "Heart of Artemisa Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete Heart of Artemisa guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Heart of Artemisa Wiki — Builds, Guide, Combat & Rhythm Mechanics",
+      "description": "Complete Heart of Artemisa guide covering rhythm combat, demo weapons, boss battle strategies, dungeon navigation, controls, and latest updates."
     },
     "hero": {
       "eyebrow": "Rhythm Action Roguelite Adventure",
@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master the subterranean dungeon depths from your first run with rhythm combat fundamentals, timing windows, and movement basics."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Rhythm Timing & Streaks",
+          "description": "Learn how to internalize musical tempos, land on-beat strikes for 1.5x damage multipliers, and sustain 8+ hit rhythm streaks."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Weapons & Playstyles",
+          "description": "Discover the 4 core weapon archetypes from the demo, comparing cadences between swift thrusts, balanced sweeps, and heavy slams."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Heart of Artemisa."
+          "title": "Boss & Dungeon Survival",
+          "description": "Navigate metric traps, overcome 8 rhythmic enemy variants, and conquer the multi-phase Crypt Guardian boss fight."
         }
       ]
     },
@@ -62,237 +62,289 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Weapons Breakdown",
+        "Controls & Setup",
+        "Boss Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Master rhythm combat, beat timing, and dungeon navigation from your first run.",
+          "href": "/guide/heart-of-artemisa-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Combat",
+          "title": "Weapons Breakdown",
+          "description": "Compare 4 weapon classes, attack cadences, and rhythmic damage scaling.",
+          "href": "/combat/heart-of-artemisa-weapons"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Mechanics",
+          "title": "Controls & Setup",
+          "description": "Full gamepad and keyboard mapping with latency reduction and calibration tips.",
+          "href": "/mechanics/heart-of-artemisa-controls"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Bosses",
+          "title": "Boss Battle Tactics",
+          "description": "Conquer the Crypt Guardian boss across dynamic multi-phase tempo shifts.",
+          "href": "/combat/heart-of-artemisa-boss"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Tips",
+          "title": "Essential Tips",
+          "description": "Vital survival tactics, rhythm streak management, and trap navigation strategies.",
+          "href": "/guide/heart-of-artemisa-tips"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Lore",
+          "title": "Characters & Lore",
+          "description": "Explore protagonist backstory, Greek mythology inspirations, and the legend of Artemisa.",
+          "href": "/characters/heart-of-artemisa-characters"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Heart of Artemisa?",
       "paragraphs": [
-        "Heart of Artemisa is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Heart of Artemisa is a rhythm action adventure game with dungeon crawler and roguelite elements developed by Camacebra Games. Set in a 2D pixel art dark fantasy world inspired by Greek mythology, players explore cursed subterranean caverns, solve harmonic puzzles, and fight mythical foes at the beat of the music.",
+        "Movement and combat are strictly tied to the rhythm of the soundtrack. Striking squarely on the beat multiplies your damage and staggers aggressive monsters, while off-beat swings leave you vulnerable. Master 4 weapon archetypes, conquer 8 unique enemy types, and navigate challenging multi-phase boss encounters."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Camacebra Games"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Rhythm Action Roguelite"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Visual Style",
+          "value": "16-bit Pixel Art"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Demo Length",
+          "value": "40+ Minutes"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Weapons",
+          "value": "4 Types"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Enemies",
+          "value": "8 Variants"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Heart of Artemisa Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Discover comprehensive progression guides, rhythm combat breakdowns, weapon movesets, enemy strategies, and developer updates for Heart of Artemisa.",
       "modules": [
         {
           "order": 1,
-          "name": "Heart of Artemisa Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/heart-of-artemisa-codes",
-          "displayType": "code-box",
+          "name": "Heart of Artemisa Wiki Beginner Guide",
+          "description": "Master rhythm combat fundamentals, beat timing windows, dungeon navigation, and survival strategies for early runs.",
+          "href": "/guide/heart-of-artemisa-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Calibrate audio and display latency in settings"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Listen to percussion cues to internalize tempo"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Strike strictly on-beat for 1.5x damage bonus"
+            },
+            {
+              "label": "4",
+              "detail": "Time dash and repositioning to rhythmic pulses"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/heart-of-artemisa-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Heart of Artemisa Wiki Gameplay Guide",
+          "description": "Explore the core gameplay loop combining rhythm-based combat, 2D dungeon exploration, puzzle solving, and Greek mythology themes.",
+          "href": "/mechanics/heart-of-artemisa-gameplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Beat Pulse",
+              "detail": "Actions and movements synchronize directly with the soundtrack"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Dungeons",
+              "detail": "Explore mysterious caves and cursed subterranean halls"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Puzzles",
+              "detail": "Solve melodic rune puzzles and interactive room mechanisms"
+            },
+            {
+              "label": "Roguelite",
+              "detail": "Collect relics, artifacts, and boons during procedural runs"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/heart-of-artemisa-tier-list",
-          "displayType": "tier-grid",
+          "name": "Heart of Artemisa Wiki Characters Guide",
+          "description": "Discover key characters, the mysterious protagonist, mythological lore figures, and the ancient power of Artemisa.",
+          "href": "/characters/heart-of-artemisa-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Hero",
+              "detail": "Heroic warrior navigating the cursed subterranean depths"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Artemisa",
+              "detail": "Ancient mythological entity anchoring the dungeon core"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Guardians",
+              "detail": "Chained temple sentinels and rhythmic boss adversaries"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Mythology",
+              "detail": "Dark fantasy world inspired by classic Greek legends"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/heart-of-artemisa-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Heart of Artemisa Wiki Combat Guide",
+          "description": "Break down rhythm combat mechanics, timing tiers, combo streaks, enemy patterns, and multi-phase boss encounter tactics.",
+          "href": "/mechanics/heart-of-artemisa-combat",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Lock onto the quarter-note beat before engaging foes"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Chain 8+ perfect strikes to trigger rhythm streaks"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Evade telegraphs during half-beat enemy recovery"
+            },
+            {
+              "label": "4",
+              "detail": "Adapt weapon cadences during multi-phase boss fights"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/heart-of-artemisa-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Heart of Artemisa Wiki Weapons and Abilities",
+          "description": "Compare the 4 demo weapon archetypes, rhythmic attack cadences, active abilities, and timing tiers for maximum combat efficiency.",
+          "href": "/combat/heart-of-artemisa-weapons",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Broadsword",
+              "detail": "Balanced quarter-note cleaves with high stagger potential"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Rapier",
+              "detail": "Swift half-beat thrusts delivering high single-target burst"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Polearm",
+              "detail": "Extended reach piercing strikes for safe linear spacing"
+            },
+            {
+              "label": "Hammer",
+              "detail": "Heavy half-note ground slams fracturing dungeon tiles"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/heart-of-artemisa-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Heart of Artemisa Wiki Story and Lore",
+          "description": "Unravel the dark fantasy narrative, Greek mythology inspirations, harmonic subterranean curse, and environmental lore.",
+          "href": "/mechanics/heart-of-artemisa-story",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Core Mythos: Ancient Artemisa sanctuary & harmonic curse lore"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Subterranean Strata: Cursed Sanctum & Silent Catacombs lore"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Temple Relics: Musical altars, shrines, and mythic carvings"
+            },
+            {
+              "label": "C",
+              "detail": "Fallen Guardians: Chained sentinels corrupted by resonance"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Heart of Artemisa Wiki Updates and News",
+          "description": "Track official developer announcements, demo updates, combat balancing, and Steam community patch notes from Camacebra Games.",
+          "href": "/media/heart-of-artemisa-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "New Demo",
+              "detail": "Expanded 40+ minute demo with 4 weapons and new boss"
+            },
+            {
+              "label": "Enemies",
+              "detail": "8 distinct enemy archetypes with rhythmic behaviors"
+            },
+            {
+              "label": "Controls",
+              "detail": "Full gamepad and Steam Input controller optimization"
+            },
+            {
+              "label": "Audio",
+              "detail": "Enhanced audio-visual timing and calibration features"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Heart of Artemisa Wiki Trailer and Media",
+          "description": "Watch official gameplay trailers, teaser videos, screenshots, and visual media introducing the 16-bit pixel art dark fantasy world.",
+          "href": "/media/heart-of-artemisa-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Gameplay",
+              "detail": "Official gameplay trailer showing rhythm combat action"
+            },
+            {
+              "label": "Pixel Art",
+              "detail": "16-bit dark fantasy visuals inspired by Greek myths"
+            },
+            {
+              "label": "Soundtrack",
+              "detail": "Original rhythmic compositions driving gameplay loops"
+            },
+            {
+              "label": "Teaser",
+              "detail": "Steam store video previews and boss fight gameplay"
             }
           ]
         }
@@ -304,23 +356,23 @@
       "items": [
         {
           "question": "What is Heart of Artemisa?",
-          "answer": "Heart of Artemisa is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Heart of Artemisa is a rhythm-based action adventure roguelite developed by Camacebra Games. Players explore mysterious caves and dark dungeons, battling enemies and solving puzzles synchronized to the musical beat in a 16-bit pixel art fantasy world inspired by Greek mythology."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How does combat work in Heart of Artemisa?",
+          "answer": "In Heart of Artemisa, combat is tied to the soundtrack tempo. Striking precisely on the beat multiplies your damage output by up to 2.0x, triggers stagger effects, and builds rhythm streaks. Swinging off-beat deals reduced damage and leaves you vulnerable."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which weapons are available in Heart of Artemisa?",
+          "answer": "The Heart of Artemisa demo features 4 distinct weapon archetypes: the balanced Broadsword, the fast Rapier, the long-range Polearm, and the heavy Hammer, each with unique rhythmic attack cadences and timing windows."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Is a controller recommended for Heart of Artemisa?",
+          "answer": "Yes, developer Camacebra Games explicitly recommends playing Heart of Artemisa with a gamepad. Modern controllers such as Xbox, DualShock, and DualSense provide tactile feedback that helps internalize the musical pulse."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where can I play the Heart of Artemisa demo?",
+          "answer": "You can download and play the official Heart of Artemisa demo on Steam, which includes over 40 minutes of gameplay, 4 weapon archetypes, 8 enemy types, and a multi-phase boss encounter."
         }
       ]
     },
@@ -337,7 +389,7 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
+    "playOnRoblox": "Play on Steam",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
