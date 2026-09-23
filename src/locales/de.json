@@ -1,1 +1,455 @@
-{}
+{
+  "site": {
+    "name": "Heart of Artemisa Wiki",
+    "shortName": "Heart of Artemisa",
+    "tagline": "Builds, Guides, Rhythmus-Mechaniken & Gameplay",
+    "description": "Das Heart of Artemisa Wiki bietet Gameplay-Guides, Kampftipps, Dungeon-Strategien, Charakter-Builds, Rhythmus-Mechaniken und die neuesten Updates für dieses Pixel-Art-Roguelite-Abenteuer.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler erstellt."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Theme wechseln",
+    "guide": "Guide",
+    "mechanics": "Mechaniken",
+    "combat": "Kampf",
+    "characters": "Charaktere",
+    "media": "Medien",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Heart of Artemisa Wiki — Builds, Guide, Kampf & Rhythmus-Mechaniken",
+      "description": "Vollständiger Heart of Artemisa Guide zu Rhythmus-Kämpfen, Demo-Waffen, Bosskampf-Strategien, Dungeon-Navigation, Steuerung und aktuellen Updates."
+    },
+    "hero": {
+      "eyebrow": "Rhythmus-Action-Roguelite-Abenteuer",
+      "title": "Heart of Artemisa Wiki",
+      "description": "Heart of Artemisa ist ein rhythmusbasiertes Action-Adventure, in dem Spieler geheimnisvolle Dungeons erkunden, Rätsel lösen und Gegner im Takt der Musik in einer von der griechischen Mythologie inspirierten Pixel-Art-Welt bekämpfen.",
+      "stats": [
+        "Demnächst",
+        "Roguelite-Dungeons",
+        "0 Aktive Codes",
+        "Entwickler-Updates"
+      ],
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Dungeon-Guide",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Offizieller Gameplay-Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise in Heart of Artemisa",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Meistere die Tiefen der unterirdischen Dungeons vom ersten Durchlauf an mit Kampfgrundlagen im Rhythmus, Timing-Fenstern und grundlegenden Bewegungen."
+        },
+        {
+          "number": "2",
+          "title": "Rhythmus-Timing & Serien",
+          "description": "Lerne musikalische Tempi zu verinnerlichen, Schläge exakt im Takt für 1,5x-Schadensmultiplikatoren zu landen und Rhythmus-Serien von 8+ Treffern zu halten."
+        },
+        {
+          "number": "3",
+          "title": "Waffen & Spielstile",
+          "description": "Entdecke die 4 Kern-Waffenarchetypen der Demo und vergleiche Kadenzen zwischen schnellen Stößen, ausgewogenen Hieben und wuchtigen Schlägen."
+        },
+        {
+          "number": "4",
+          "title": "Boss- & Dungeon-Überleben",
+          "description": "Weiche Taktfallen aus, besiege 8 rhythmische Gegnervarianten und bezwinge den mehrphasigen Bosskampf gegen den Gruftwächter."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Jetzt im Trend",
+      "quickLinks": [
+        "Einsteiger-Guide",
+        "Waffenübersicht",
+        "Steuerung & Setup",
+        "Boss-Guide"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Einsteiger-Guide",
+          "description": "Meistere Rhythmuskampf, Takttiming und Dungeon-Navigation von deinem ersten Durchlauf an.",
+          "href": "/guide/heart-of-artemisa-beginner-guide"
+        },
+        {
+          "badge": "Kampf",
+          "title": "Waffenübersicht",
+          "description": "Vergleiche 4 Waffenklassen, Angriffskadenzen und rhythmische Schadensskalierung.",
+          "href": "/combat/heart-of-artemisa-weapons"
+        },
+        {
+          "badge": "Mechaniken",
+          "title": "Steuerung & Setup",
+          "description": "Vollständige Tastenbelegung für Controller und Tastatur mit Latenzreduzierung und Kalibrierungstipps.",
+          "href": "/mechanics/heart-of-artemisa-controls"
+        },
+        {
+          "badge": "Bosse",
+          "title": "Bosskampf-Taktiken",
+          "description": "Bezwinge den Gruftwächter über dynamische mehrphasige Tempowechsel hinweg.",
+          "href": "/combat/heart-of-artemisa-boss"
+        },
+        {
+          "badge": "Tipps",
+          "title": "Wichtige Tipps",
+          "description": "Überlebenswichtige Taktiken, Rhythmus-Serienverwaltung und Fallen-Navigation.",
+          "href": "/guide/heart-of-artemisa-tips"
+        },
+        {
+          "badge": "Lore",
+          "title": "Charaktere & Lore",
+          "description": "Erforsche die Hintergrundgeschichte des Protagonisten, griechische Mythen und die Legende von Artemisa.",
+          "href": "/characters/heart-of-artemisa-characters"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Heart of Artemisa?",
+      "paragraphs": [
+        "Heart of Artemisa ist ein Rhythmus-Action-Adventure mit Dungeon-Crawler- und Roguelite-Elementen, entwickelt von Camacebra Games. In einer düsteren 2D-Pixel-Art-Fantasiewelt voller griechischer Mythologie erkunden Spieler verfluchte Höhlen, lösen harmonische Rätsel und bekämpfen mythische Kreaturen im Takt der Musik.",
+        "Bewegung und Kampf sind strikt an das Tempo des Soundtracks gekoppelt. Schläge exakt im Takt vervielfachen deinen Schaden und bringen aggressive Monster ins Taumeln, während Schläge neben dem Takt dich verwundbar machen. Meistere 4 Waffenarchetypen, bezwinge 8 einzigartige Gegnertypen und meistere anspruchsvolle mehrphasige Bosskämpfe."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Camacebra Games"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Genre",
+          "value": "Rhythmus-Action-Roguelite"
+        },
+        {
+          "label": "Grafikstil",
+          "value": "16-Bit-Pixel-Art"
+        },
+        {
+          "label": "Demo-Länge",
+          "value": "40+ Minuten"
+        },
+        {
+          "label": "Waffen",
+          "value": "4 Typen"
+        },
+        {
+          "label": "Gegner",
+          "value": "8 Varianten"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Heart of Artemisa Wiki erkunden",
+      "description": "Entdecke umfassende Fortschritts-Guides, Rhythmuskampf-Analysen, Waffen-Movesets, Gegnerstrategien und Entwickler-Neuigkeiten zu Heart of Artemisa.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Heart of Artemisa Wiki Einsteiger-Guide",
+          "description": "Meistere Rhythmus-Kampfgrundlagen, Takttiming-Fenster, Dungeon-Navigation und Überlebensstrategien für frühe Durchläufe.",
+          "href": "/guide/heart-of-artemisa-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Audio- und Anzeigelatenz in den Einstellungen kalibrieren"
+            },
+            {
+              "label": "2",
+              "detail": "Auf Percussion-Signale achten, um das Tempo zu verinnerlichen"
+            },
+            {
+              "label": "3",
+              "detail": "Präzise im Takt zuschlagen für 1,5-fachen Schadensbonus"
+            },
+            {
+              "label": "4",
+              "detail": "Sprints und Neupositionierungen an Rhythmusimpulse anpassen"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Heart of Artemisa Wiki Gameplay-Guide",
+          "description": "Erkunde den Kern-Gameplay-Loop aus taktbasiertem Kampf, 2D-Dungeon-Erkundung, Rätseln und griechischer Mythologie.",
+          "href": "/mechanics/heart-of-artemisa-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Taktschlag",
+              "detail": "Aktionen und Bewegungen synchronisieren sich direkt mit der Musik"
+            },
+            {
+              "label": "Dungeons",
+              "detail": "Geheimnisvolle Höhlen und verfluchte Hallen erforschen"
+            },
+            {
+              "label": "Rätsel",
+              "detail": "Melodische Runenrätsel und interaktive Raummechanismen lösen"
+            },
+            {
+              "label": "Roguelite",
+              "detail": "Relikte, Artefakte und Segen in prozeduralen Durchläufen sammeln"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Heart of Artemisa Wiki Charaktere-Guide",
+          "description": "Lerne Schlüsselcharaktere, den geheimnisvollen Protagonisten, mythologische Gestalten und die uralte Macht von Artemisa kennen.",
+          "href": "/characters/heart-of-artemisa-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Held",
+              "detail": "Heroischer Krieger in den Tiefen der verfluchten Höhlen"
+            },
+            {
+              "label": "Artemisa",
+              "detail": "Uralte mythische Entität im Zentrum des Dungeons"
+            },
+            {
+              "label": "Wächter",
+              "detail": "Gekettete Tempelsentinels und rhythmische Boss-Widersacher"
+            },
+            {
+              "label": "Mythologie",
+              "detail": "Düstere Fantasiewelt inspiriert von klassischen griechischen Sagen"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Heart of Artemisa Wiki Kampf-Guide",
+          "description": "Detaillierte Rhythmuskampf-Mechaniken, Timing-Stufen, Combo-Serien, Gegnermuster und mehrphasige Bosskampf-Taktiken.",
+          "href": "/mechanics/heart-of-artemisa-combat",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Vierteltakt verinnerlichen, bevor Gegner angegriffen werden"
+            },
+            {
+              "label": "2",
+              "detail": "Kontinuierliche Takttreffer halten für maximale Schadensboni"
+            },
+            {
+              "label": "3",
+              "detail": "Telegrafierte Gegnerangriffe im Takt rechtzeitig erkennen"
+            },
+            {
+              "label": "4",
+              "detail": "Waffenkadenzen in mehrphasigen Bosskämpfen gezielt anpassen"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Heart of Artemisa Wiki Waffen & Fähigkeiten",
+          "description": "Vergleiche die 4 Waffenarchetypen der Demo, rhythmische Angriffskadenzen, aktive Fähigkeiten und Timing-Fenster.",
+          "href": "/combat/heart-of-artemisa-weapons",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Breitschwert",
+              "detail": "Ausgewogene Viertelnoten-Hiebe mit hohem Taumelpotenzial"
+            },
+            {
+              "label": "Rapier",
+              "detail": "Schnelle Achtelnoten-Stöße für hohen Einzeltreffer-Schaden"
+            },
+            {
+              "label": "Stangenwaffe",
+              "detail": "Reichweitenstarke Stiche für sicheren Abstand zu Feinden"
+            },
+            {
+              "label": "Hammer",
+              "detail": "Wuchtige Halbe-Noten-Bodenschläge, die den Boden erschüttern"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Heart of Artemisa Wiki Story & Lore",
+          "description": "Ergründe die düstere Fantasy-Erzählung, mythologische Wurzeln, den harmonischen Fluch und die Geheimnisse der Ruinen.",
+          "href": "/mechanics/heart-of-artemisa-story",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Zentraler Mythos: Uraltes Artemisa-Heiligtum und harmonischer Fluch"
+            },
+            {
+              "label": "A",
+              "detail": "Unterirdische Schichten: Verfluchtes Sanktum & Stille Katakomben"
+            },
+            {
+              "label": "B",
+              "detail": "Tempelrelikte: Musikalische Altäre, Schreine und mythische Reliefs"
+            },
+            {
+              "label": "C",
+              "detail": "Gefallene Wächter: Gekettete Wächter, von Resonanz verdorben"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Heart of Artemisa Wiki Updates & Neuigkeiten",
+          "description": "Verfolge offizielle Entwickler-Ankündigungen, Demo-Updates, Kampf-Balancing und Steam-Patchnotizen von Camacebra Games.",
+          "href": "/media/heart-of-artemisa-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Neue Demo",
+              "detail": "Erweiterte 40+-Minuten-Demo mit 4 Waffen und neuem Boss"
+            },
+            {
+              "label": "Gegner",
+              "detail": "8 eigenständige Gegnerarchetypen mit rhythmischen Mustern"
+            },
+            {
+              "label": "Steuerung",
+              "detail": "Volle Controller-Optimierung und Steam-Input-Unterstützung"
+            },
+            {
+              "label": "Audio",
+              "detail": "Verbesserte audiovisuelle Timing- und Kalibrierungsfunktionen"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Heart of Artemisa Wiki Trailer & Medien",
+          "description": "Sieh dir offizielle Gameplay-Trailer, Teaser-Videos, Screenshots und Bildmaterial der 16-Bit-Pixel-Art-Fantasiewelt an.",
+          "href": "/media/heart-of-artemisa-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Gameplay",
+              "detail": "Offizieller Gameplay-Trailer zeigt packende Rhythmus-Action"
+            },
+            {
+              "label": "Pixel Art",
+              "detail": "Düstere 16-Bit-Grafik inspiriert von griechischen Mythen"
+            },
+            {
+              "label": "Soundtrack",
+              "detail": "Originale rhythmische Kompositionen für packende Spielabläufe"
+            },
+            {
+              "label": "Teaser",
+              "detail": "Vorschauvideos im Steam Store und Bosskampf-Eindrücke"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die wichtigsten Fragen zu Heart of Artemisa.",
+      "items": [
+        {
+          "question": "Was ist Heart of Artemisa?",
+          "answer": "Heart of Artemisa ist ein rhythmusbasiertes Action-Adventure-Roguelite von Camacebra Games. Spieler erkunden geheimnisvolle Höhlen und finstere Dungeons, bekämpfen Gegner und lösen Rätsel im Takt der Musik in einer 16-Bit-Pixel-Art-Welt inspiriert von der griechischen Mythologie."
+        },
+        {
+          "question": "Wie funktioniert das Kampfsystem in Heart of Artemisa?",
+          "answer": "In Heart of Artemisa ist das Kampfsystem an das Tempo des Soundtracks gebunden. Schläge exakt im Takt multiplizieren deinen Schaden um bis zu 2,0x, bringen Feinde ins Taumeln und bauen Trefferserien auf. Schläge neben dem Takt verursachen weniger Schaden und machen dich verwundbar."
+        },
+        {
+          "question": "Welche Waffen stehen in Heart of Artemisa zur Verfügung?",
+          "answer": "Die Demo von Heart of Artemisa enthält 4 unterschiedliche Waffenarchetypen: das ausgewogene Breitschwert, den flinken Rapier, die weitreichende Stangenwaffe und den schweren Hammer – jeweils mit eigenen rhythmischen Kadenzen und Timing-Fenstern."
+        },
+        {
+          "question": "Wird für Heart of Artemisa ein Controller empfohlen?",
+          "answer": "Ja, Entwickler Camacebra Games empfiehlt ausdrücklich das Spielen mit einem Gamepad. Moderne Controller wie Xbox, DualShock und DualSense bieten taktiles Feedback, das hilft, den Takt der Musik intuitiv zu verinnerlichen."
+        },
+        {
+          "question": "Wo kann ich die Demo von Heart of Artemisa spielen?",
+          "answer": "Du kannst die offizielle Demo von Heart of Artemisa auf Steam herunterladen und spielen. Sie umfasst über 40 Minuten Spielzeit, 4 Waffenarchetypen, 8 Gegnertypen und einen mehrphasigen Bosskampf."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Heart of Artemisa zu meistern?",
+      "description": "Von deinen ersten Rhythmuskämpfen bis hin zur tiefen Dungeon-Erkundung begleitet dich unser Community-Wiki mit kostenlosen und aktuellen Guides.",
+      "primary": "Einsteiger-Guide lesen",
+      "secondary": "Auf Steam ansehen"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Steam spielen",
+    "inThisSection": "In diesem Bereich",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Weiterführende Lektüre",
+    "relatedGuides": "Ähnliche Guides",
+    "readMore": "Weiterlesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Heart of Artemisa Wiki",
+    "about": "Heart of Artemisa Wiki ist eine unabhängige, von Fans erstellte Guide-Plattform, die Rhythmus-Kampfmechaniken, Dungeon-Strategien, Charakter-Builds und unverzichtbares Spielwissen für neue wie erfahrene Spieler bereitstellt.",
+    "quickLinks": "Schnellzugriff",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Heart of Artemisa Wiki. Nicht mit Camacebra Games oder Steam verbunden.",
+    "description": "Rhythmus-Action-Roguelite-Abenteuer in einer 16-Bit-Pixel-Art-Fantasiewelt voller griechischer Mythen.",
+    "playGame": "Auf Steam ansehen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "beginnerGuide": "Einsteiger-Guide",
+    "mechanics": "Spielmechaniken",
+    "combat": "Kampfsystem",
+    "characters": "Charaktere & Lore",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  },
+  "guide": {
+    "overviewTitle": "Heart of Artemisa Guides",
+    "overviewDescription": "Umfassende Schritt-für-Schritt-Guides, Einsteiger-Strategien, Demo-Walkthroughs und nützliche Tipps für Heart of Artemisa."
+  },
+  "mechanics": {
+    "overviewTitle": "Heart of Artemisa Mechaniken",
+    "overviewDescription": "Detaillierte Analyse von Kampftaktung, Bewegungssteuerung, Erkundungssystemen und mythologischer Lore."
+  },
+  "combat": {
+    "overviewTitle": "Heart of Artemisa Kampf",
+    "overviewDescription": "Meistere Schlachttaktiken, Taktsynchronisation, Waffentechniken, Gegnermuster und Bossbegegnungen."
+  },
+  "characters": {
+    "overviewTitle": "Heart of Artemisa Charaktere",
+    "overviewDescription": "Ausführliche Profile des Protagonisten, göttlicher Wesen, der Artemisa-Mythologie und spielbarer Charakterfähigkeiten."
+  },
+  "media": {
+    "overviewTitle": "Heart of Artemisa Medien",
+    "overviewDescription": "Aktuelle Gameplay-Trailer, offizielle Release-Ankündigungen, Entwickler-Updates und Community-Videos."
+  },
+  "community": {
+    "overviewTitle": "Heart of Artemisa Community",
+    "overviewDescription": "Tritt der Spieler-Community auf Discord und Reddit bei, verfolge Ankündigungen und lies offizielle FAQs."
+  }
+}

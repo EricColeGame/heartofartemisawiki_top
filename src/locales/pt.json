@@ -1,1 +1,455 @@
-{}
+{
+  "site": {
+    "name": "Heart of Artemisa Wiki",
+    "shortName": "Heart of Artemisa",
+    "tagline": "Builds, Guias, Mecânicas de Ritmo e Jogabilidade",
+    "description": "Heart of Artemisa Wiki oferece guias de gameplay, dicas de combate, estratégias para masmorras, builds de personagens, mecânicas rítmicas e as atualizações mais recentes para esta aventura roguelite em pixel art.",
+    "legalNotice": "Wiki não oficial de fãs. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar Tema",
+    "guide": "Guia",
+    "mechanics": "Mecânicas",
+    "combat": "Combate",
+    "characters": "Personagens",
+    "media": "Mídia",
+    "community": "Comunidade"
+  },
+  "home": {
+    "meta": {
+      "title": "Heart of Artemisa Wiki — Builds, Guia, Combate e Mecânicas de Ritmo",
+      "description": "Guia completo de Heart of Artemisa cobrindo combate rítmico, armas da demo, estratégias de chefes, navegação por masmorras, controles e últimas atualizações."
+    },
+    "hero": {
+      "eyebrow": "Aventura Roguelite de Ação no Ritmo",
+      "title": "Heart of Artemisa Wiki",
+      "description": "Heart of Artemisa é um jogo de ação e aventura baseado em ritmo onde os jogadores exploram masmorras misteriosas, resolvem quebra-cabeças e enfrentam inimigos seguindo a batida da música em um mundo pixel art inspirado na mitologia grega.",
+      "stats": [
+        "Em Breve",
+        "Masmorras Roguelite",
+        "0 Códigos Ativos",
+        "Notas de Desenvolvimento"
+      ],
+      "primaryCta": "Guia para Iniciantes",
+      "secondaryCta": "Guia de Masmorras",
+      "tertiaryCta": "Códigos Ativos",
+      "videoLabel": "Trailer Oficial de Gameplay"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Navegar por Todos os Guias",
+      "viewAll": "Ver Tudo"
+    },
+    "start": {
+      "eyebrow": "Comece Aqui",
+      "title": "Sua Jornada em Heart of Artemisa",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Domine as profundezas das masmorras subterrâneas desde sua primeira tentativa com fundamentos de combate rítmico, janelas de tempo e movimentação básica."
+        },
+        {
+          "number": "2",
+          "title": "Sincronização de Ritmo e Sequências",
+          "description": "Aprenda a internalizar os tempos musicais, acertar golpes no compasso exato para multiplicadores de dano de 1.5x e manter sequências rítmicas de 8+ acertos."
+        },
+        {
+          "number": "3",
+          "title": "Armas e Estilos de Jogo",
+          "description": "Descubra os 4 arquétipos centrais de armas da demo, comparando cadências entre estocadas rápidas, varreduras equilibradas e golpes pesados."
+        },
+        {
+          "number": "4",
+          "title": "Sobrevivência em Masmorras e Chefes",
+          "description": "Desvie de armadilhas métricas, supere 8 variantes rítmicas de inimigos e vença a batalha multifásica contra o Guardião da Cripta."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Tendências Agora",
+      "quickLinks": [
+        "Guia para Iniciantes",
+        "Análise de Armas",
+        "Controles e Ajustes",
+        "Guia de Chefes"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para Iniciantes",
+          "description": "Domine combate no ritmo, temporização de batidas e navegação em masmorras desde sua primeira corrida.",
+          "href": "/guide/heart-of-artemisa-beginner-guide"
+        },
+        {
+          "badge": "Combate",
+          "title": "Análise de Armas",
+          "description": "Compare 4 classes de armas, cadências de ataque e escala de dano rítmico.",
+          "href": "/combat/heart-of-artemisa-weapons"
+        },
+        {
+          "badge": "Mecânicas",
+          "title": "Controles e Ajustes",
+          "description": "Mapeamento completo de controle e teclado com redução de latência e dicas de calibração.",
+          "href": "/mechanics/heart-of-artemisa-controls"
+        },
+        {
+          "badge": "Chefes",
+          "title": "Táticas contra Chefes",
+          "description": "Derrote o Guardião da Cripta em dinâmicas mudanças de andamento entre fases.",
+          "href": "/combat/heart-of-artemisa-boss"
+        },
+        {
+          "badge": "Dicas",
+          "title": "Dicas Essenciais",
+          "description": "Táticas vitais de sobrevivência, gerenciamento de sequências rítmicas e desvio de armadilhas.",
+          "href": "/guide/heart-of-artemisa-tips"
+        },
+        {
+          "badge": "História",
+          "title": "Personagens e Lore",
+          "description": "Explore o passado do protagonista, inspirações na mitologia grega e a lenda de Artemisa.",
+          "href": "/characters/heart-of-artemisa-characters"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Heart of Artemisa?",
+      "paragraphs": [
+        "Heart of Artemisa é um jogo de ação e aventura rítmico com elementos de dungeon crawler e roguelite desenvolvido pela Camacebra Games. Ambientado em um mundo de fantasia sombria em pixel art 2D inspirado na mitologia grega, os jogadores exploram cavernas subterrâneas amaldiçoadas, resolvem enigmas harmônicos e enfrentam criaturas míticas no ritmo da trilha sonora.",
+        "A movimentação e o combate são estritamente sincronizados com o andamento da música. Desferir ataques no tempo correto multiplica o dano causado e atordoa monstros agressivos, enquanto golpes fora do tempo deixam você vulnerável. Domine 4 arquétipos de armas, vença 8 tipos únicos de inimigos e enfrente batalhas desafiadoras contra chefes em várias etapas."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedor",
+          "value": "Camacebra Games"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Gênero",
+          "value": "Ação Roguelite no Ritmo"
+        },
+        {
+          "label": "Estilo Visual",
+          "value": "Pixel Art 16-bit"
+        },
+        {
+          "label": "Duração da Demo",
+          "value": "40+ Minutos"
+        },
+        {
+          "label": "Armas",
+          "value": "4 Tipos"
+        },
+        {
+          "label": "Inimigos",
+          "value": "8 Variantes"
+        }
+      ],
+      "cta": "Explorar Todos os Guias"
+    },
+    "explore": {
+      "title": "Explore a Heart of Artemisa Wiki",
+      "description": "Descubra guias completos de progressão, análises de combate rítmico, golpes de armas, estratégias contra inimigos e notas de desenvolvimento para Heart of Artemisa.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guia para Iniciantes de Heart of Artemisa Wiki",
+          "description": "Domine os fundamentos do combate no ritmo, janelas de precisão da batida, navegação em masmorras e táticas de sobrevivência inicial.",
+          "href": "/guide/heart-of-artemisa-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Calibre a latência de áudio e vídeo nas configurações"
+            },
+            {
+              "label": "2",
+              "detail": "Ouça os toques de percussão para internalizar o tempo"
+            },
+            {
+              "label": "3",
+              "detail": "Golpeie rigorosamente no tempo para bônus de 1.5x no dano"
+            },
+            {
+              "label": "4",
+              "detail": "Sincronize esquivas e posicionamento com os pulsos da música"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia de Jogabilidade de Heart of Artemisa Wiki",
+          "description": "Conheça o ciclo central de jogo que combina combate no compasso, exploração 2D de masmorras, quebra-cabeças e mitologia grega.",
+          "href": "/mechanics/heart-of-artemisa-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pulso do Ritmo",
+              "detail": "Ações e movimentos sincronizados diretamente com a música"
+            },
+            {
+              "label": "Masmorras",
+              "detail": "Explore cavernas misteriosas e salões subterrâneos amaldiçoados"
+            },
+            {
+              "label": "Enigmas",
+              "detail": "Resolva quebra-cabeças de runas melódicas e mecanismos interativos"
+            },
+            {
+              "label": "Roguelite",
+              "detail": "Colete relíquias, artefatos e bênçãos em partidas procedimentais"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guia de Personagens de Heart of Artemisa Wiki",
+          "description": "Descubra personagens marcantes, o misterioso protagonista, figuras mitológicas e o poder milenar de Artemisa.",
+          "href": "/characters/heart-of-artemisa-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Herói",
+              "detail": "Guerreiro heroico explorando as profundezas amaldiçoadas"
+            },
+            {
+              "label": "Artemisa",
+              "detail": "Entidade mitológica antiga no núcleo da masmorra"
+            },
+            {
+              "label": "Guardiões",
+              "detail": "Sentinelas acorrentados do templo e chefes rítmicos rivais"
+            },
+            {
+              "label": "Mitologia",
+              "detail": "Mundo de fantasia sombria inspirado em lendas gregas clássicas"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guia de Combate de Heart of Artemisa Wiki",
+          "description": "Compreenda as mecânicas de combate rítmico, categorias de precisão, combos em sequência, padrões inimigos e lutas contra chefes.",
+          "href": "/mechanics/heart-of-artemisa-combat",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Identifique o tempo da semínima antes de entrar em combate"
+            },
+            {
+              "label": "2",
+              "detail": "Mantenha acertos contínuos no tempo para acionar multiplicadores"
+            },
+            {
+              "label": "3",
+              "detail": "Reconheça os ataques telegrafados pelos inimigos no ritmo"
+            },
+            {
+              "label": "4",
+              "detail": "Adapte as cadências de armas durante chefes em várias fases"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Armas e Habilidades de Heart of Artemisa Wiki",
+          "description": "Compare os 4 arquétipos de armas da demo, cadências de ataque rítmicas, habilidades ativas e janelas de impacto com precisão máxima.",
+          "href": "/combat/heart-of-artemisa-weapons",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Espada Larga",
+              "detail": "Golpes equilibrados no tempo de semínima com alto poder de atordoamento"
+            },
+            {
+              "label": "Rapieira",
+              "detail": "Estocadas velozes a meio tempo para alto dano concentrado"
+            },
+            {
+              "label": "Arma de Haste",
+              "detail": "Ataques perfurantes de longo alcance para manter distância segura"
+            },
+            {
+              "label": "Martelo",
+              "detail": "Impactos pesados de mínima que quebram o piso da masmorra"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "História e Lore de Heart of Artemisa Wiki",
+          "description": "Desvende a narrativa de fantasia sombria, referências à mitologia grega, a maldição harmônica subterrânea e os segredos dos cenários.",
+          "href": "/mechanics/heart-of-artemisa-story",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Mito Central: Santuário ancestral de Artemisa e maldição harmônica"
+            },
+            {
+              "label": "A",
+              "detail": "Estratos Subterrâneos: Santuário Amaldiçoado e Catacumbas Silenciosas"
+            },
+            {
+              "label": "B",
+              "detail": "Relíquias do Templo: Altares musicais, monumentos e inscrições míticas"
+            },
+            {
+              "label": "C",
+              "detail": "Guardiões Caídos: Sentinelas acorrentados corrompidos por ressonância"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Atualizações e Notícias de Heart of Artemisa Wiki",
+          "description": "Acompanhe comunicados oficiais dos desenvolvedores, atualizações da demo, balanceamento de combate e notas de atualização da Camacebra Games.",
+          "href": "/media/heart-of-artemisa-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Nova Demo",
+              "detail": "Demo expandida de mais de 40 minutos com 4 armas e novo chefe"
+            },
+            {
+              "label": "Inimigos",
+              "detail": "8 arquétipos distintos de inimigos com comportamentos rítmicos"
+            },
+            {
+              "label": "Controles",
+              "detail": "Otimização integral para controles e suporte via Steam Input"
+            },
+            {
+              "label": "Áudio",
+              "detail": "Recursos avançados de sincronização e calibração audiovisual"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Trailer e Mídia de Heart of Artemisa Wiki",
+          "description": "Assista aos trailers oficiais de jogabilidade, vídeos de prévia, imagens e mídias visuais do mundo de fantasia sombria em pixel art 16-bit.",
+          "href": "/media/heart-of-artemisa-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Jogabilidade",
+              "detail": "Trailer oficial de gameplay com ação intensa de combate rítmico"
+            },
+            {
+              "label": "Pixel Art",
+              "detail": "Visuais de fantasia sombria em 16-bit inspirados na mitologia grega"
+            },
+            {
+              "label": "Trilha Sonora",
+              "detail": "Músicas rítmicas originais que comandam o ritmo de jogo"
+            },
+            {
+              "label": "Teaser",
+              "detail": "Vídeos de demonstração da Steam Store e confrontos com chefes"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Respostas diretas para as dúvidas mais comuns sobre Heart of Artemisa.",
+      "items": [
+        {
+          "question": "O que é Heart of Artemisa?",
+          "answer": "Heart of Artemisa é um jogo de ação e aventura roguelite no ritmo criado pela Camacebra Games. Os jogadores exploram cavernas misteriosas e masmorras escuras, enfrentando inimigos e resolvendo quebra-cabeças sincronizados com o ritmo da música em um mundo de pixel art 16-bit inspirado na mitologia grega."
+        },
+        {
+          "question": "Como funciona o combate em Heart of Artemisa?",
+          "answer": "Em Heart of Artemisa, o combate é guiado pelo tempo da trilha sonora. Golpear exatamente no compasso multiplica seu dano em até 2.0x, causa atordoamento nos adversários e constrói sequências rítmicas. Golpes fora do tempo causam menos dano e deixam você desprotegido."
+        },
+        {
+          "question": "Quais armas estão disponíveis em Heart of Artemisa?",
+          "answer": "A demo de Heart of Artemisa apresenta 4 arquétipos de armas: a equilibrada Espada Larga, a ágil Rapieira, a Armadura de Haste de longo alcance e o pesado Martelo, cada qual com cadências rítmicas de ataque e janelas de temporização próprias."
+        },
+        {
+          "question": "É recomendado usar controle em Heart of Artemisa?",
+          "answer": "Sim, a desenvolvedora Camacebra Games recomenda explicitamente jogar Heart of Artemisa com um controle. Controles modernos como Xbox, DualShock e DualSense fornecem resposta tátil que ajuda a internalizar a pulsação musical."
+        },
+        {
+          "question": "Onde posso jogar a demo de Heart of Artemisa?",
+          "answer": "Você pode baixar e jogar a demo oficial de Heart of Artemisa no Steam, incluindo mais de 40 minutos de conteúdo, 4 arquétipos de armas, 8 tipos de inimigos e um confronto em múltiplas etapas contra um chefe."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Dominar Heart of Artemisa?",
+      "description": "Dos seus primeiros combates no ritmo até a exploração profunda das masmorras, nossa wiki comunitária oferece guias gratuitos e atualizados.",
+      "primary": "Ler o Guia para Iniciantes",
+      "secondary": "Ver no Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Steam",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice de Conteúdo",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leituras Relacionadas",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Heart of Artemisa Wiki",
+    "about": "Heart of Artemisa Wiki é uma central de guias independente criada por fãs, cobrindo mecânicas de combate rítmico, estratégias de masmorras, builds de personagens e conhecimentos essenciais para jogadores novatos e veteranos.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Heart of Artemisa Wiki. Não afiliado à Camacebra Games ou ao Steam.",
+    "description": "Aventura roguelite de ação no ritmo em um mundo pixel art de fantasia sombria inspirado na mitologia grega.",
+    "playGame": "Ver no Steam",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "beginnerGuide": "Guia para Iniciantes",
+    "mechanics": "Mecânicas de Jogo",
+    "combat": "Sistema de Combate",
+    "characters": "Personagens e História",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  },
+  "guide": {
+    "overviewTitle": "Guias de Heart of Artemisa",
+    "overviewDescription": "Guias completos de jogo, estratégias para iniciantes, tutoriais da demo e dicas valiosas para Heart of Artemisa."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Heart of Artemisa",
+    "overviewDescription": "Análise minuciosa de sincronia rítmica, comandos de movimentação, sistemas de exploração e história mitológica."
+  },
+  "combat": {
+    "overviewTitle": "Combate de Heart of Artemisa",
+    "overviewDescription": "Domine táticas de batalha, sincronização com o compasso, golpes com armas, comportamentos de inimigos e embates contra chefes."
+  },
+  "characters": {
+    "overviewTitle": "Personagens de Heart of Artemisa",
+    "overviewDescription": "Perfis detalhados do protagonista, seres divinos, mitologia de Artemisa e habilidades dos personagens no jogo."
+  },
+  "media": {
+    "overviewTitle": "Mídia de Heart of Artemisa",
+    "overviewDescription": "Últimos trailers de gameplay, comunicados oficiais de lançamento, atualizações e vídeos da comunidade."
+  },
+  "community": {
+    "overviewTitle": "Comunidade de Heart of Artemisa",
+    "overviewDescription": "Participe da comunidade de jogadores de Heart of Artemisa no Discord e Reddit, acompanhe novidades e leia o FAQ oficial."
+  }
+}
